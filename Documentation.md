@@ -34,6 +34,21 @@ Seuraavana lauantaina Amanda ja Anna saapuvat ajallaan esitykseen. Ovella valvoj
 Erään tapahtumahallin omistaja pohtii, kannattaako Kuukauden Kirja -tapahtumaa järjestää enää. Päätöksensä tueksi hän haluaa tietää, kuinka monta kävijää edellisessä tapahtumassa on ollut ja kuinka paljon tapahtuma on tienannut, jotta voi verrata niitä tapahtuman järjestämisestä aiheutuviin kuluihin. <br>
 Omistaja ottaa yhteyttä lipputoimistoon jonka kautta liput myydään ja tahtoo tietää tapahtuman tilastot. Lipputoimiston työntekijä selvittää järjestelmästään Kuukauden kirja -tapahtumaan myytyjen lippujen myyntiraportin ja osaa kertoa, että tapahtumaan ostettiin 314 aikuisten lippua ja 42 lasten lippua. Näin ollen tuottoja oli yhteensä 4020 euroa. Tämän perusteella omistaja voi pohtia, kannattaako tapahtumaa enää järjestää vai olisiko mahdollista lisätä tapahtuman houkuttelevuutta.
 
+#### Tarina 3: Lipun tulostus
+
+Lipunmyyjänä haluan, että jokaiselle myydylle lipulle tulostuu automaattisesti fyysinen lippu, jossa näkyy tapahtuman tiedot sekä yksilöllinen, helposti luettava koodi, jotta asiakas saa mukaansa toimivan pääsylipun heti oston yhteydessä. Tulostuksen tulisi onnistua sekä ennakkomyynnissä että tapahtumapäivänä ovella tapahtuvassa myynnissä. Haluan myös, että tulostusvirheen sattuessa lippua voidaan tulostaa uudelleen ilman, että asiakkaalta veloitetaan kahdesti tai että järjestelmään syntyy virheellisiä kaksoiskappaleita samasta lipusta.
+
+#### Tarina 4: Lipun tarkastus ovella
+Ovella työskentelevänä henkilönä haluan lukea lipussa olevan koodin järjestelmän avulla, jotta näen välittömästi, onko lippu aito, oikeaan tapahtumaan kuuluva ja vielä käyttämätön. Kun lippu todetaan kelvolliseksi, haluan pystyä merkitsemään sen käytetyksi yhdellä toiminnolla, jotta samaa lippua ei voida käyttää uudelleen sisäänpääsyyn. Mikäli lippu on jo käytetty tai virheellinen, haluan järjestelmän ilmoittavan siitä selkeästi, jotta voin estää asiakkaan pääsyn ja toimia tilanteen vaatimalla tavalla.
+
+#### Tarina 5: Tungos ja tuplaliput
+Lipputoimisto sai ison tapahtumajärjestäjän asiakkaakseen. Tapahtuman suosio yllätti ja liput myytiin hetkessä loppuun. Ongelmaksi koitui, ettei myydyt liput päivittyneet reaaliajassa eri lipunmyyntipisteisiin, jolloin tapahtumaan myytiin liikaa lippuja. Seurauksena tilojen enimmäismäärä ylittyi. Tapahtuma sai huonoa palautetta tungoksesta, josta seurasi muitakin käytännön ongelmia. 
+Lisäksi asiakkaille oli tulostunut tuplalippuja samoilla sarjanumeroilla. Osa asiakkaista ei päässyt paikalle ja he myivät alkuperäisiä lippujaan yksityisesti eteenpäin ennen tapahtumaa. Tapahtumapäivänä ovella oli paljon selvittelyä, oliko eteenpäin myydyt liput väärennettyjä vai alkuperäisiä ”tuplalippuja”. Tämä hidasti kaikkien sisäänpääsyä sekä lisäsi pahaa mieltä ja mainehaittaa lipputoimistolle.
+
+#### Tarina 6: Peruutusoikeus
+Asiakas on ostanut lipun tapahtumaan Syysyö Sastamalassa. Alkusyksystä hän kuitenkin loukkaantuu tapaturmaisesti. Saattajan avustamana sekä raajat kipsattuna hän lähtee käymään lipunmyyntipisteellä, koska he eivät löydä mahdollisuutta asioida netin kautta, eikä puhelimitsekaan oikein osattu auttaa, että mitä lipun kanssa voisi nyt tehdä.
+Asiakas näyttää lipunmyyntipisteellä lääkärintodistuksen sekä ostamansa paperisen lipun. Hän toivoisi, että saisi lippua vastaan rahat takaisin taikka vaihtaa lipun toiseen, myöhemmin tulevaan tapahtumaan. Lipunmyyntipisteellä henkilökunta ei oikein tiedä miten lipun kanssa kuuluisi toimia, kun ei ole lipunmyyntijärjestelmääkään, jonne voisi kirjata lipun palautuneeksi. Lopulta he ottavat lipun kuitenkin takaisin myyntiin ja antavat samanhintaisen, tulevan tapahtuman lipun tilalle. He pahoittelevat, että asiakas joutui asian vuoksi tulemaan fyysisesti paikan päälle. Asiakas on tyytyväinen, että asia hoitui parhain päin, mutta olisi halunnut mieluummin asioida verkossa. 
+
 <!-- Määrittelyssä järjestelmää tarkastellaan käyttäjän näkökulmasta. Järjestelmän
 toiminnot hahmotellaan käyttötapausten tai käyttäjätarinoiden kautta, ja kuvataan järjestelmän
 käyttäjäryhmät.
