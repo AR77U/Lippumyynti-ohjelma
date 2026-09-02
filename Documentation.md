@@ -1,6 +1,7 @@
 
 <!--
 # Projektin nimi
+-->
 
 # TicketGuru -lipunmyyntijärjestelmä
 
@@ -89,7 +90,7 @@ tietoa ja keskittyä siihen. -->
  
 
 
-<!--
+
 ## Käyttöliittymä
 
 <!-- Esitetään käyttöliittymän tärkeimmät (vain ne!) näkymät sekä niiden väliset siirtymät käyttöliittymäkaaviona. 
