@@ -1,7 +1,7 @@
 
 <!--
 # Projektin nimi
--->
+
 
 # TicketGuru -lipunmyyntijärjestelmä
 
@@ -85,7 +85,7 @@ käyttäjäryhmät.
 -   Lyhyt kuvaus käyttötapauksista tai käyttäjätarinat
 
 Kuvauksissa kannattaa harkita, mikä on toteuttajalle ja asiakkaalle oleellista
-tietoa ja keskittyä siihen. --> 
+tietoa ja keskittyä siihen.  
 
  
 
@@ -95,7 +95,7 @@ tietoa ja keskittyä siihen. -->
 
 <!-- Esitetään käyttöliittymän tärkeimmät (vain ne!) näkymät sekä niiden väliset siirtymät käyttöliittymäkaaviona. 
 
-Jos näkymän tarkoitus ei ole itsestään selvä, se pitää kuvata lyhyesti. -->
+Jos näkymän tarkoitus ei ole itsestään selvä, se pitää kuvata lyhyesti. 
 
 ## Tietokanta
 
@@ -115,7 +115,7 @@ attribuuttien (kentät/sarakkeet) listausta ja lyhyttä kuvausta esim. tähän t
 > id | int PK | Tilin id
 > nimimerkki | varchar(30) |  Tilin nimimerkki
 > avatar | int FK | Tilin avatar, viittaus [avatar](#Avatar)-tauluun
-> kayttaja | int FK | Viittaus käyttäjään [käyttäjä](#Kayttaja)-taulussa -->
+> kayttaja | int FK | Viittaus käyttäjään [käyttäjä](#Kayttaja)-taulussa 
 
 ## Tekninen kuvaus
 
@@ -136,7 +136,7 @@ Tämän lisäksi
 -   luokkien, metodien ja muuttujien tulee olla kuvaavasti nimettyjä ja noudattaa
     johdonmukaisia nimeämiskäytäntöjä
 -   ohjelmiston pitää olla organisoitu komponentteihin niin, että turhalta toistolta
-    vältytään -->
+    vältytään 
 
 ## Testaus
 
@@ -145,7 +145,7 @@ testaamalla projektin aikana: millaisia testauksia tehdään ja missä vaiheessa
 Testauksen tarkemmat sisällöt ja testisuoritusten tulosten raportit kirjataan
 erillisiin dokumentteihin.
 
-Tänne kirjataan myös lopuksi järjestelmän tunnetut ongelmat, joita ei ole korjattu. -->
+Tänne kirjataan myös lopuksi järjestelmän tunnetut ongelmat, joita ei ole korjattu. 
 
 ## Asennustiedot
 
@@ -159,7 +159,7 @@ Tänne kirjataan myös lopuksi järjestelmän tunnetut ongelmat, joita ei ole ko
 
 Asennusohjeesta tulisi ainakin käydä ilmi, miten käytettävä tietokanta ja
 käyttäjät tulee ohjelmistoa asentaessa määritellä (käytettävä tietokanta,
-käyttäjätunnus, salasana, tietokannan luonti yms.). -->
+käyttäjätunnus, salasana, tietokannan luonti yms.). 
 
 ## Käynnistys- ja käyttöohje
 
