@@ -37,6 +37,14 @@ käyttäjäryhmät.
 Kuvauksissa kannattaa harkita, mikä on toteuttajalle ja asiakkaalle oleellista
 tietoa ja keskittyä siihen.
 
+Lipun tulostus:
+
+Lipunmyyjänä haluan, että jokaiselle myydylle lipulle tulostuu automaattisesti fyysinen lippu, jossa näkyy tapahtuman tiedot sekä yksilöllinen, helposti luettava koodi, jotta asiakas saa mukaansa toimivan pääsylipun heti oston yhteydessä. Tulostuksen tulisi onnistua sekä ennakkomyynnissä että tapahtumapäivänä ovella tapahtuvassa myynnissä. Haluan myös, että tulostusvirheen sattuessa lippua voidaan tulostaa uudelleen ilman, että asiakkaalta veloitetaan kahdesti tai että järjestelmään syntyy virheellisiä kaksoiskappaleita samasta lipusta.
+
+Lipun tarkastus ovella
+Ovella työskentelevänä henkilönä haluan lukea lipussa olevan koodin järjestelmän avulla, jotta näen välittömästi, onko lippu aito, oikeaan tapahtumaan kuuluva ja vielä käyttämätön. Kun lippu todetaan kelvolliseksi, haluan pystyä merkitsemään sen käytetyksi yhdellä toiminnolla, jotta samaa lippua ei voida käyttää uudelleen sisäänpääsyyn. Mikäli lippu on jo käytetty tai virheellinen, haluan järjestelmän ilmoittavan siitä selkeästi, jotta voin estää asiakkaan pääsyn ja toimia tilanteen vaatimalla tavalla.
+
+
 ## Käyttöliittymä
 
 Esitetään käyttöliittymän tärkeimmät (vain ne!) näkymät sekä niiden väliset siirtymät käyttöliittymäkaaviona. 
