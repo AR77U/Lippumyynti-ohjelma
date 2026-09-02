@@ -44,6 +44,15 @@ Lipunmyyjänä haluan, että jokaiselle myydylle lipulle tulostuu automaattisest
 Lipun tarkastus ovella
 Ovella työskentelevänä henkilönä haluan lukea lipussa olevan koodin järjestelmän avulla, jotta näen välittömästi, onko lippu aito, oikeaan tapahtumaan kuuluva ja vielä käyttämätön. Kun lippu todetaan kelvolliseksi, haluan pystyä merkitsemään sen käytetyksi yhdellä toiminnolla, jotta samaa lippua ei voida käyttää uudelleen sisäänpääsyyn. Mikäli lippu on jo käytetty tai virheellinen, haluan järjestelmän ilmoittavan siitä selkeästi, jotta voin estää asiakkaan pääsyn ja toimia tilanteen vaatimalla tavalla.
 
+Tungos ja tuplaliput
+Lipputoimisto sai ison tapahtumajärjestäjän asiakkaakseen. Tapahtuman suosio yllätti ja liput myytiin hetkessä loppuun. Ongelmaksi koitui, ettei myydyt liput päivittyneet reaaliajassa eri lipunmyyntipisteisiin, jolloin tapahtumaan myytiin liikaa lippuja. Seurauksena tilojen enimmäismäärä ylittyi. Tapahtuma sai huonoa palautetta tungoksesta, josta seurasi muitakin käytännön ongelmia. 
+Lisäksi asiakkaille oli tulostunut tuplalippuja samoilla sarjanumeroilla. Osa asiakkaista ei päässyt paikalle ja he myivät alkuperäisiä lippujaan yksityisesti eteenpäin ennen tapahtumaa. Tapahtumapäivänä ovella oli paljon selvittelyä, oliko eteenpäin myydyt liput väärennettyjä vai alkuperäisiä ”tuplalippuja”. Tämä hidasti kaikkien sisäänpääsyä sekä lisäsi pahaa mieltä ja mainehaittaa lipputoimistolle.
+
+Peruutusoikeus
+Asiakas on ostanut lipun tapahtumaan Syysyö Sastamalassa. Alkusyksystä hän kuitenkin loukkaantuu tapaturmaisesti. Saattajan avustamana sekä raajat kipsattuna hän lähtee käymään lipunmyyntipisteellä, koska he eivät löydä mahdollisuutta asioida netin kautta, eikä puhelimitsekaan oikein osattu auttaa, että mitä lipun kanssa voisi nyt tehdä.
+Asiakas näyttää lipunmyyntipisteellä lääkärintodistuksen sekä ostamansa paperisen lipun. Hän toivoisi, että saisi lippua vastaan rahat takaisin taikka vaihtaa lipun toiseen, myöhemmin tulevaan tapahtumaan. Lipunmyyntipisteellä henkilökunta ei oikein tiedä miten lipun kanssa kuuluisi toimia, kun ei ole lipunmyyntijärjestelmääkään, jonne voisi kirjata lipun palautuneeksi. Lopulta he ottavat lipun kuitenkin takaisin myyntiin ja antavat samanhintaisen, tulevan tapahtuman lipun tilalle. He pahoittelevat, että asiakas joutui asian vuoksi tulemaan fyysisesti paikan päälle. Asiakas on tyytyväinen, että asia hoitui parhain päin, mutta olisi halunnut mieluummin asioida verkossa. 
+
+
 
 ## Käyttöliittymä
 
