@@ -1,6 +1,11 @@
 # Projektin nimi
 
-Tiimi: Etunimi Sukunimi, Etunimi Sukunimi
+Tiimi Ykköset: <br>
+Oksanen Joonis <br>
+Paavolainen Arttu <br>
+Salminen Sini <br>
+Vastamäki Johanna <br>
+Vähäkuopus Felix
 
 ## Johdanto
 
@@ -15,6 +20,10 @@ tekniikoita käytetään ja mitä konkreettisesti on valmiina, kun projekti pä�
     täppäri, desktop)
 
 ## Järjestelmän määrittely
+
+### Käyttäjäroolit
+
+### Käyttäjätarinat
 
 Määrittelyssä järjestelmää tarkastellaan käyttäjän näkökulmasta. Järjestelmän
 toiminnot hahmotellaan käyttötapausten tai käyttäjätarinoiden kautta, ja kuvataan järjestelmän
