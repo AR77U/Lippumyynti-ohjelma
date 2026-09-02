@@ -1,5 +1,9 @@
+
 <!--
 # Projektin nimi
+
+# TicketGuru -lipunmyyntijärjestelmä
+
 
 Tiimi Ykköset: <br>
 Oksanen Joonis <br>
@@ -9,6 +13,29 @@ Vastamäki Johanna <br>
 Vähäkuopus Felix
 
 ## Johdanto
+
+
+### Opintojakso
+Tämä projekti on toteutettu Haaga Helian opintojaksolle Ohjelmistoprojekti 1 - SOF005AS3A-3026 syksyllä 2026. Opintojakson tavoitteena on, että opiskelijat toimivat ohjelmistoprojektin kehitystiimin jäsenenä, toteuttavat ohjelmistorajapinnan ja tekevät yhteistyötä tilaajatahon (opettaja) kanssa. Opintojakso kestää 16 viikkoa, jonka aikana ohjelmistoprojekti kehitetään.
+
+### Tilaaja
+Projektissa tilaajana on lipputoimisto, joka tilaa tiimiltä lipunmyyntijärjestelmän (TicketGuru). Järjestelmältä halutaan mm.
+* Toimisto voi määritellä itse tapahtumat
+* Tukevan eri lipputyyppejä (esim. aikuinen, lapsi, eläkeläinen) eri hinnoilla
+* Hintoja voidaan muokata ohjelmassa
+* Pystytään tarkastella myyntiraporttia ja myyntitapahtumia
+* Lipunmyyntipisteessä voidaan tulostaa liput järjestelmän kautta
+* Lippuihin tulostetaan tarkistuskoodi
+* Mahdollinen verkkokauppa, jotta asiakkaat pystyvät omatoimisesti ostamaan lippuja
+
+
+### Toteutus- ja toimintaympäristö
+Projektin tietokantana toimii SQLite ja tietokannan käyttöliittymänä käytämme SQLite Studiota. Käytämme projektissa myös REST-ohjelmistorajapintaa Back end ja Front end -osien välillä. Ohjelmiston kehitettämiseen käytetään Spring Boot -sovelluskehystä. Front end tekniikkana toimii React.
+Julkaisemme lopputuloksen toimimaan verkkosivulla.
+
+
+### Lopputulos
+Lopputuloksena projektille on tilaajan toiveiden mukainen tuote, jota voi käyttää tietokoneella.
 
 <!-- Johdantoon kirjoitetaan lyhyt, ytimekäs kuvaus siitä, mikä on projektin aihe,
 kuka on asiakas (käyttäjä), mitä hän haluaa ja saa järjestelmältä, mitä
