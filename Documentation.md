@@ -78,6 +78,7 @@ Asiakas on ostanut lipun tapahtumaan Syysyö Sastamalassa. Alkusyksystä hän ku
 
 ### Käyttötapauskaavio
 
+![Käyttötapauskaavio](./kuvat/kayttotapauskaavio.png)
 
 
 <!-- Määrittelyssä järjestelmää tarkastellaan käyttäjän näkökulmasta. Järjestelmän
@@ -93,8 +94,6 @@ Kuvauksissa kannattaa harkita, mikä on toteuttajalle ja asiakkaalle oleellista
 tietoa ja keskittyä siihen.  -->
 
  
-
-
 
 ## Käyttöliittymä
 
