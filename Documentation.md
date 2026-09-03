@@ -31,7 +31,7 @@ Projektissa tilaajana on lipputoimisto, joka tilaa tiimiltä lipunmyyntijärjest
 
 
 ### Toteutus- ja toimintaympäristö
-Projektin tietokantana toimii SQLite ja tietokannan käyttöliittymänä käytämme SQLite Studiota. Käytämme projektissa myös REST-ohjelmistorajapintaa Back end ja Front end -osien välillä. Ohjelmiston kehitettämiseen käytetään Spring Boot -sovelluskehystä. Front end tekniikkana toimii React.
+Projektin tietokantana toimii SQL ja tietokannan käyttöliittymänä käytämme PostgreSQL:ää. Käytämme projektissa myös REST-ohjelmistorajapintaa Back end ja Front end -osien välillä. Ohjelmiston kehitettämiseen käytetään Spring Boot -sovelluskehystä. Front end tekniikkana toimii React.
 Julkaisemme lopputuloksen toimimaan verkkosivulla.
 
 
