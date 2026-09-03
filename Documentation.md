@@ -76,6 +76,13 @@ Lipputoimisto sai ison tapahtumajärjestäjän asiakkaakseen. Tapahtuman suosio 
 #### Tarina 6: Peruutusoikeus
 Asiakas on ostanut lipun tapahtumaan Syysyö Sastamalassa. Alkusyksystä hän kuitenkin loukkaantuu tapaturmaisesti. Saattajan avustamana sekä raajat kipsattuna hän lähtee käymään lipunmyyntipisteellä, koska he eivät löydä mahdollisuutta asioida netin kautta, eikä puhelimitsekaan oikein osattu auttaa, että mitä lipun kanssa voisi nyt tehdä. Asiakas näyttää lipunmyyntipisteellä lääkärintodistuksen sekä ostamansa paperisen lipun. Hän toivoisi, että saisi lippua vastaan rahat takaisin taikka vaihtaa lipun toiseen, myöhemmin tulevaan tapahtumaan. Lipunmyyntipisteellä henkilökunta ei oikein tiedä miten lipun kanssa kuuluisi toimia, kun ei ole lipunmyyntijärjestelmääkään, jonne voisi kirjata lipun palautuneeksi. Lopulta he ottavat lipun kuitenkin takaisin myyntiin ja antavat samanhintaisen, tulevan tapahtuman lipun tilalle. He pahoittelevat, että asiakas joutui asian vuoksi tulemaan fyysisesti paikan päälle. Asiakas on tyytyväinen, että asia hoitui parhain päin, mutta olisi halunnut mieluummin asioida verkossa.
 
+#### Tarina 7: Lipun ostaminen verkosta
+Asiakas haluaa ostaa lipun tulevana viikonloppuna järjestettävään tapahtumaan. Hän avaa lipputoimiston verkkosivut ja valitsee haluamansa tapahtuman sekä näytöksestä vapaan paikan. Asiakas valitsee aikuisten lipun, maksaa ostoksen verkkopankissa ja saa onnistuneen maksun jälkeen sähköpostiinsa vahvistuksen sekä digitaalisen lipun. Lipussa näkyvät tapahtuman tiedot ja yksilöllinen koodi, jonka hän voi näyttää puhelimestaan tapahtuman ovella. Asiakkaan ei näin tarvitse käydä lipunmyyntipisteellä tai tulostaa lippua etukäteen.
+
+#### Tarina 8: Tapahtuman tietojen ja hintojen hallinta
+Lipputoimiston työntekijä saa tiedon, että tapahtumajärjestäjä on muuttanut tulevan tapahtuman lippujen hintoja. Aikuisten lipun hinta nousee 20 eurosta 25 euroon ja lasten lipun hinta 10 eurosta 12 euroon. Työntekijä kirjautuu lipunmyyntijärjestelmään ja päivittää tapahtuman hinnat sekä muut tarvittavat tapahtumatiedot. Järjestelmä tallentaa muutokset, minkä jälkeen asiakkaat näkevät verkkokaupassa uudet hinnat ja järjestelmä laskee ostoksen loppusumman niiden perusteella.
+
+
 ### Käyttötapauskaavio
 
 ![Käyttötapauskaavio](./kuvat/kayttotapauskaavio.png)
@@ -96,6 +103,9 @@ tietoa ja keskittyä siihen.  -->
  
 
 ## Käyttöliittymä
+
+![Käyttöliittymäkaavio](./kuvat/kayttoliittyma.png)
+
 
 <!-- Esitetään käyttöliittymän tärkeimmät (vain ne!) näkymät sekä niiden väliset siirtymät käyttöliittymäkaaviona. 
 
