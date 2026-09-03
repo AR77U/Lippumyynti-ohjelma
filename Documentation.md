@@ -97,6 +97,9 @@ tietoa ja keskittyä siihen.  -->
 
 ## Käyttöliittymä
 
+![Käyttöliittymäkaavio](./kuvat/kayttoliittyma.png)
+
+
 <!-- Esitetään käyttöliittymän tärkeimmät (vain ne!) näkymät sekä niiden väliset siirtymät käyttöliittymäkaaviona. 
 
 Jos näkymän tarkoitus ei ole itsestään selvä, se pitää kuvata lyhyesti. -->
