@@ -54,6 +54,42 @@ Järjestelmän määrittely kuvaa käyttäjän näkökulmasta järjestelmän kes
 
 ### Käyttäjäroolit
 
+#### Asiakas
+Henkilö joka voi ostaa lipun haluamaansa tapahtumaan lipiunmyyntipisteestä tai verkkokaupasta.
+
+Roolin käyttötapaukset:
+* Tapahtumien selaaminen
+* Lipun ostaminen
+* Lipputyypin valinta
+* Maksaminen
+* Digitaalisen lipun vastaanottaminen
+* Lipun palautus/vaihto
+
+#### Lipunmyyjä
+Lipputoimiston työntekijä, joka myy ja hallinnoi lippuja asiakkaille. Järjestelmän operatiivinen käyttäjä.
+
+Roolin käyttötapaukset:
+* Lippujen myynti
+* Lippujen tulostaminen
+* Tapahtumien ja hintojen hallinta
+* Myyntiraporttien tarkastelu
+
+#### Lipuntarkastaja
+Tapahtuman ovella työskentelevä henkilö, joka tarkistaa asiakkaiden liput sisäänpääsyn yhteydessä.
+
+Roolin käyttötapaukset:
+* Lipun koodin lukeminen
+* Lipun aitouden ja voimassaolon tarkistaminen
+* Lippujen merkitseminen käytetyiksi
+
+#### Tapahtumajärjestäjä
+Tapahtuman järjestäjä, joka on kiinnostunut oman tapahtumansa tiedoista ja myyntiraportista.
+
+Roolin käyttötapaukset:
+* Tapahtuman tietojen ja myyntitilastojen tarkastelu (kävijämäärät, myytyjen lippujen määrät ja tuotot)
+
+<br>
+
 ### Käyttäjätarinat
 
 #### Tarina 1: Saman päivän esitys
