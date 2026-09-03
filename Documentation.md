@@ -50,6 +50,7 @@ tekniikoita käytetään ja mitä konkreettisesti on valmiina, kun projekti pä�
 -->
 
 ## Järjestelmän määrittely
+Järjestelmän määrittely kuvaa käyttäjän näkökulmasta järjestelmän keskeiset toiminnot. Käyttäjäroolit määrittelevät järjestelmää käyttävät ryhmät, ja käyttäjätarinat listaa erilaisia käyttötapauksia. Käyttötapauskaavio esittää keskeiset toiminteet järjestelmälle, jakaen ne käyttäjien vastuiden mukaisesti: mitä eri toiminteita eri käyttäjäryhmät järjestelmällä tekevät.
 
 ### Käyttäjäroolit
 
@@ -74,6 +75,10 @@ Lipputoimisto sai ison tapahtumajärjestäjän asiakkaakseen. Tapahtuman suosio 
 
 #### Tarina 6: Peruutusoikeus
 Asiakas on ostanut lipun tapahtumaan Syysyö Sastamalassa. Alkusyksystä hän kuitenkin loukkaantuu tapaturmaisesti. Saattajan avustamana sekä raajat kipsattuna hän lähtee käymään lipunmyyntipisteellä, koska he eivät löydä mahdollisuutta asioida netin kautta, eikä puhelimitsekaan oikein osattu auttaa, että mitä lipun kanssa voisi nyt tehdä. Asiakas näyttää lipunmyyntipisteellä lääkärintodistuksen sekä ostamansa paperisen lipun. Hän toivoisi, että saisi lippua vastaan rahat takaisin taikka vaihtaa lipun toiseen, myöhemmin tulevaan tapahtumaan. Lipunmyyntipisteellä henkilökunta ei oikein tiedä miten lipun kanssa kuuluisi toimia, kun ei ole lipunmyyntijärjestelmääkään, jonne voisi kirjata lipun palautuneeksi. Lopulta he ottavat lipun kuitenkin takaisin myyntiin ja antavat samanhintaisen, tulevan tapahtuman lipun tilalle. He pahoittelevat, että asiakas joutui asian vuoksi tulemaan fyysisesti paikan päälle. Asiakas on tyytyväinen, että asia hoitui parhain päin, mutta olisi halunnut mieluummin asioida verkossa.
+
+### Käyttötapauskaavio
+
+
 
 <!-- Määrittelyssä järjestelmää tarkastellaan käyttäjän näkökulmasta. Järjestelmän
 toiminnot hahmotellaan käyttötapausten tai käyttäjätarinoiden kautta, ja kuvataan järjestelmän
