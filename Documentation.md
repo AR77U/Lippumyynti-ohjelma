@@ -93,8 +93,8 @@ Roolin käyttötapaukset:
 ### Käyttäjätarinat
 
 #### Tarina 1: Saman päivän esitys
-Kaverukset Amanda ja Anna haluavat mennä Teatterin Aave -esitykseen perjantaina. Perjantaina heidän saapuessaan lipunmyynnille myyjä kertoo, että päivä on loppuunmyyty eikä lippuja kyseiselle päivälle enää ole. Myyjä kertoo, että ensi viikon lauantaina on vielä paikkoja jäljellä. Kaverukset ostavat liput lauantain esitykseen jotka saavat heti tulostettuna, ja joutuvat keksimään muuta tekemistä illalleen. <br>
-Seuraavana lauantaina Amanda ja Anna saapuvat ajallaan esitykseen. Ovella valvoja tarkistaa liput, ja merkitsee ne käytetyksi kavereiden mennessä sisään.
+Kaverukset Christian ja Laura haluavat mennä Teatterin Aave -esitykseen perjantaina. Perjantaina heidän saapuessaan lipunmyynnille myyjä kertoo, että päivä on loppuunmyyty eikä lippuja kyseiselle päivälle enää ole. Myyjä kertoo, että ensi viikon lauantaina on vielä paikkoja jäljellä. Kaverukset ostavat liput lauantain esitykseen jotka saavat heti tulostettuna, ja joutuvat keksimään muuta tekemistä illalleen. <br>
+Seuraavana lauantaina Christian ja Laura saapuvat ajallaan esitykseen. Ovella valvoja tarkistaa liput, ja merkitsee ne käytetyksi kavereiden mennessä sisään.
 
 #### Tarina 2: Tapahtuman kannattavuus
 Erään tapahtumahallin omistaja pohtii, kannattaako Kuukauden Kirja -tapahtumaa järjestää enää. Päätöksensä tueksi hän haluaa tietää, kuinka monta kävijää edellisessä tapahtumassa on ollut ja kuinka paljon tapahtuma on tienannut, jotta voi verrata niitä tapahtuman järjestämisestä aiheutuviin kuluihin. <br>
