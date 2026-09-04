@@ -118,6 +118,12 @@ Asiakas haluaa ostaa lipun tulevana viikonloppuna järjestettävään tapahtumaa
 #### Tarina 8: Tapahtuman tietojen ja hintojen hallinta
 Lipputoimiston työntekijä saa tiedon, että tapahtumajärjestäjä on muuttanut tulevan tapahtuman lippujen hintoja. Aikuisten lipun hinta nousee 20 eurosta 25 euroon ja lasten lipun hinta 10 eurosta 12 euroon. Työntekijä kirjautuu lipunmyyntijärjestelmään ja päivittää tapahtuman hinnat sekä muut tarvittavat tapahtumatiedot. Järjestelmä tallentaa muutokset, minkä jälkeen asiakkaat näkevät verkkokaupassa uudet hinnat ja järjestelmä laskee ostoksen loppusumman niiden perusteella.
 
+#### Tarina 9: Aiemman ostoksen etsiminen
+Lipunmyyjä saa asiakkaalta kyselyn aikaisemmin ostetusta lipusta. Asiakas ei löydä lippuaan eikä muista, milloin ostos on tehty. Lipunmyyjä etsii järjestelmästä asiakkaan ostoksen esim. tietyn tapahtuman ostotietojen perusteella. Järjestelmä näyttää löydetyn ostoksen tiedot, jolloin myyjä voi tarkistaa lipun tilanteen ja tarvittaessa auttaa asiakasta.
+
+#### Tarina 10: Tapahtuman tietojen seuranta
+Tapahtumajärjestäjä haluaa nähdä, kuinka paljon tapahtumaan on vielä vapaita paikkoja ja kuinka monta lippua on jo myyty. Hän pääsee katsomaan näitä tilastoja tapahtumajärjestäjälle jaetun linkin kautta. Linkin kautta avautuu näkymä järjestelmän tietoihin kyseisestä tapahtumasta ja siihen liittyvistä tilastoista. Tapahtumajärjestäjä on tyytyväinen toiminnallisuuteen, koska hän pääsee tutkimaan ajankohtaista dataa.
+
 
 ### Käyttötapauskaavio
 
